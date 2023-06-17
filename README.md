@@ -9,6 +9,7 @@ Backend developer:
 Other technologies:
 - AWS
 - Docker
+- Mobile app development with JAVA.
   
 
 
