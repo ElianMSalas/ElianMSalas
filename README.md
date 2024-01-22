@@ -6,11 +6,7 @@ Backend developer:
 - Application server: Gunicorn
 - Caching: Redis
 -------------------------------------
-Other technologies:
-- AWS
-- Docker
-- Mobile app development with JAVA.
-  
+
 
 
 
