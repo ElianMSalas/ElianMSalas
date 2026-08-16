@@ -5,7 +5,7 @@ Me interesa construir APIs bien estructuradas, seguras y mantenibles. Trabajo pr
 ## Stack
 
 **Backend**
-- Node.js · Express
+- Node.js · NestJS
 - PostgreSQL
 - JWT · bcrypt
 - Docker · Docker Compose
